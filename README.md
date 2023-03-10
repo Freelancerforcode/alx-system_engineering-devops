@@ -1,1 +1,2 @@
-echo 'i am working now'
+0x00. Shell, basics
+
